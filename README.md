@@ -6,5 +6,7 @@ sage:
 or
 
 ▻ gau example.com
+
+
 install:
 ▻ go build -o $GOPATH/bin/gau getallurls.go
